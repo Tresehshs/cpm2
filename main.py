@@ -22,7 +22,7 @@ from rich.style import Style
 
 from thein import Thein
 
-__CHANNEL_USERNAME__ = '123"
+__CHANNEL_USERNAME__ = "123"
 __GROUP_USERNAME__   = "123"
 
 def signal_handler(sig, frame):
